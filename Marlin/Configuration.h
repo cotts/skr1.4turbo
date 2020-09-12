@@ -914,7 +914,7 @@
 /**
  * Pressure sensor with a BLTouch-like interface
  */
-//#define CREALITY_TOUCH
+#define CREALITY_TOUCH
 
 /**
  * Touch-MI Probe by hotends.fr
